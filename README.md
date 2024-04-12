@@ -1,1 +1,1 @@
-This repository contains the analysis code for "Enhancing Cognitive Performance Prediction through White Matter Hyperintensity Disconnectivity Assessment: A Multicenter Lesion Network Mapping Analysis of 3,485 Memory Clinic Patients"
+This repository contains the analysis code for ("Enhancing Cognitive Performance Prediction through White Matter Hyperintensity Disconnectivity Assessment: A Multicenter Lesion Network Mapping Analysis of 3,485 Memory Clinic Patients")[https://www.medrxiv.org/content/10.1101/2024.03.28.24305007]
